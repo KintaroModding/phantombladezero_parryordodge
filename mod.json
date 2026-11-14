@@ -1,0 +1,14 @@
+{
+  "name": "Parry or Dodge",
+  "folder": "phantombladezero_parryordodge",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "A perfect parry also answers red attacks, and a perfect dodge also answers blue attacks, each with the game's own counter. Each part has its own switch in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}

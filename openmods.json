@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Parry or Dodge",
+  "summary": "Perfect-parry red attacks and perfect-dodge blue attacks, each with the game's own counter. Each part has its own switch in config.lua, live in game.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["gameplay"],
+  "requires": ["UE4SS (tested with v4.0.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
