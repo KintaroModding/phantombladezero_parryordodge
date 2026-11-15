@@ -17,7 +17,7 @@ mod gives it the attack of the other colour. It replaces no game file and writes
 
 ## Screenshots
 
-![Parry or Dodge](docs/cover.png)
+![Parry or Dodge](docs/cover.webp)
 
 ## How to install
 
